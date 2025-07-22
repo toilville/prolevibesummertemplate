@@ -1,91 +1,121 @@
-# Twining
+# Prole Vibe Summer Template
 
+**#ProleVibeSummer Project Template**
 
-**Twining Project Template**
-
-*A prole summer project for the working class coder*
+*A Toilville template for AI-amplified development*
 
 ---
 
-## Using This as a Template
+## Using This Template
 
-This repository is designed as a template for new Toilville projects. To get started:
+This repository is designed as a template for new #ProleVibeSummer projects. To get started:
 
 1. Click the green **"Use this template"** button on GitHub.
 2. Create your new repository from this template.
-3. Update project name, description, and customize files as needed.
-4. Follow the setup instructions below to bootstrap your project.
+3. Run `./setup-prole-project.sh` to customize your project files.
+4. Start building something that amplifies human expertise with AI collaboration.
 
 ---
 
-Built by workers, for workers. Twining is about making technology accessible and useful for everyday people, not just the tech elite.
+Let the algorithms toil while the humans vibe. This template helps you create projects that use AI to amplify human excellence, not replace it.
 
 ## What's This About?
 
-- **For the people** - No corporate BS, just honest tools
-- **By the people** - Built in spare time by folks who actually use this stuff
-- **Keep it simple** - If your grandma can't figure it out, we're doing it wrong
-- **Actually useful** - Solving real problems, not Silicon Valley fantasies
+- **AI amplification** - Using algorithms to enhance human expertise, not replace it
+- **Real-world testing** - Building tools that work in actual business operations, not just demos
+- **Constant iteration** - Expecting multiple attempts and human course correction
+- **Transparent process** - Documenting what actually works vs. what sounds good in theory
 
 ## About
 
-This is a grassroots project that emerged from actual need, not venture capital fever dreams. We're building something that matters to regular people trying to get work done.
+This is a Toilville project template for creating #ProleVibeSummer experiments - AI-powered projects that amplify human excellence through thoughtful collaboration. Based on 20+ years of workplace automation experience, this template helps you build tools that keep humans in the loop while letting algorithms handle the toil.
+
+The template includes:
+- **README template** with placeholder system for easy customization
+- **Contributing guidelines** that encourage iterative AI-human collaboration
+- **Code of conduct** that keeps things respectful and productive
+- **Setup script** for automated project initialization
+- **Issue templates** for documenting AI workflow iterations and results
 
 ## Getting Started
 
+### Using This Template
+
+Ready to start a #ProleVibeSummer experiment? Here's how:
+
+1. **Click "Use this template"** on GitHub to create your new repository
+2. **Clone your new repo** locally
+3. **Run the setup script** to customize your project:
+   ```bash
+   ./setup-prole-project.sh
+   ```
+4. **Follow the prompts** to fill in your project details
+5. **Start building** AI-amplified tools that keep humans in the loop
+
 ### What You Need
 
-Just the basics - we're not here to make you install 47 different tools just to say hello world.
+Just the basics - we're not here to overcomplicate things:
 
 - A computer (obviously)
+- Git and a GitHub account
 - Basic command line knowledge (if you can `cd` and `ls`, you're good)
-- Some free time and curiosity
+- Some curiosity about AI-human collaboration
 
 ---
 
-### Installation
+### Template Features
 
-No complicated setup scripts or enterprise deployment nonsense:
+This template gives you everything you need to start a proper #ProleVibeSummer project:
 
-```bash
-# Grab it
-git clone https://github.com/[username]/twining.git
-cd twining
+- **README template** with placeholders for documenting AI workflows
+- **Contributing guidelines** that encourage iterative development  
+- **Code of conduct** based on the Toilville standard
+- **Issue templates** for tracking AI iterations and human interventions
+- **Setup script** that handles all the tedious customization work
 
-# That's probably it
-# (We'll add actual setup steps as we build this thing)
-```
+## Template Usage
 
-## Usage
-
-We're still building this, but the goal is dead simple:
+Once you've used this template and run the setup script, you'll have a fully customized project ready for AI-human collaboration:
 
 ```bash
-# It should be this easy
-twining do-the-thing
+# After running setup-prole-project.sh, your README will be customized
+# Your CONTRIBUTING.md will be ready for documenting AI workflows
+# Your issue templates will help track iterations and human interventions
+# Time to start building AI tools that amplify human expertise!
 ```
 
-*More docs coming as we actually write the code*
+The setup script handles all the placeholder replacement automatically, so you can focus on what matters: building AI systems that enhance human capabilities rather than replacing them.
 
-## Contributing
+## The Toilville Philosophy
 
-Got ideas? Found a bug? Want to help build something useful? Jump in!
+At Toilville, we believe humans stay in the loop. Even during AI experiments.
 
-This is a community project - we're all learning and building together. Check out [CONTRIBUTING.md](CONTRIBUTING.md) for the details, but honestly:
+The best AI doesn't replace human expertise - it amplifies it. But amplification only works if you know what you're amplifying and why. This template helps you build projects that:
 
-1. Fork it
-2. Fix/build something
-3. Make sure it works
+- Expect multiple iterations and constant human course correction
+- Document what actually works vs. what sounds good in demos  
+- Keep humans involved in critical decision-making
+- Measure real outcomes, not just fancy busywork
+
+## Contributing to This Template
+
+Got ideas for improving this template? Found a way to make AI-human workflows smoother? Want to help make #ProleVibeSummer experiments more effective? Jump in!
+
+This template is a Toilville project - we're testing what actually works in AI collaboration, not just what sounds good in theory. Check out [CONTRIBUTING.md](CONTRIBUTING.md) for the details, but honestly:
+
+1. Fork this template repository
+2. Improve something (better placeholders, smoother setup, clearer iteration tracking)
+3. Test it with real AI workflows
 4. Send a pull request
 5. We'll figure it out together
 
-No corporate contribution license agreements or legal nonsense. Just good code and good vibes.
+No corporate contribution license agreements or legal nonsense. Just good templates and useful experiments.
 
 ## Code of Conduct
 
 We keep it simple: be decent to each other. Full details in [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
-This is a space for working people to build useful things. Leave the ego and elitism at the door.
+This is a space for testing AI-human collaboration. Leave the ego and unrealistic AI hype at the door.
 
 ## License
 
@@ -99,10 +129,12 @@ This repository includes GitHub template metadata in `.github/template.yml` for 
 
 ## Support & Community
 
-- **Issues** - Found a problem? Tell us about it
-- **Discussions** - Got questions or ideas? Let's talk
-- **Real talk** - This is built by people with day jobs, so be patient
+- **Issues** - Found a problem with AI workflows? Tell us about it
+- **Discussions** - Got questions about AI-human collaboration? Let's talk
+- **Real talk** - This is built by people testing real AI workflows, so expect honest feedback
 
 ## Built By
 
-Regular folks who code in their spare time because we think technology should serve people, not profit margins.
+Toilville - where we test whether AI collaboration lives up to the hype or just creates expensive busywork with extra steps.
+
+This template embodies the #ProleVibeSummer philosophy: let the algorithms toil while the humans vibe, but keep humans in the loop for the stuff that actually matters.
