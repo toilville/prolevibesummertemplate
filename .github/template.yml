@@ -1,0 +1,7 @@
+# Template Metadata for GitHub
+name: Twining Project Template
+description: Use this template to bootstrap new projects for Toilville.
+labels:
+  - template
+  - starter
+  - toilville

@@ -1,6 +1,22 @@
 # Twining
 
+
+**Twining Project Template**
+
 *A prole summer project for the working class coder*
+
+---
+
+## Using This as a Template
+
+This repository is designed as a template for new Toilville projects. To get started:
+
+1. Click the green **"Use this template"** button on GitHub.
+2. Create your new repository from this template.
+3. Update project name, description, and customize files as needed.
+4. Follow the setup instructions below to bootstrap your project.
+
+---
 
 Built by workers, for workers. Twining is about making technology accessible and useful for everyday people, not just the tech elite.
 
@@ -24,6 +40,8 @@ Just the basics - we're not here to make you install 47 different tools just to 
 - A computer (obviously)
 - Basic command line knowledge (if you can `cd` and `ls`, you're good)
 - Some free time and curiosity
+
+---
 
 ### Installation
 
@@ -72,6 +90,12 @@ This is a space for working people to build useful things. Leave the ego and eli
 ## License
 
 Open source, as it should be. Details TBD, but expect something that keeps it free and open.
+
+---
+
+## Template Metadata
+
+This repository includes GitHub template metadata in `.github/template.yml` for discoverability and ease of use.
 
 ## Support & Community
 
